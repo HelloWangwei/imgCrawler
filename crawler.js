@@ -4,6 +4,7 @@ const cheerio = require('cheerio');
 const async = require('async');
 const rimraf = require('rimraf');
 
+
 const indexPage = 'https://www.douban.com/group/haixiuzu/?type=essence#topics';
     const dir = './haixiuzu';
 
